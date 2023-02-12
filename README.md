@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer , UX Architect, REST API Developer
 -------------------------------------------------------
 
-Exploring Technology to make a better World.
+Exploring Technology to make a better World 💡.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [victorborah@gmail.com](mailto:victorborah@gmail.com)
@@ -46,9 +46,6 @@ src="https://img.shields.io/twitter/follow/VictorBorahMrZ?logo=twitter&style=for
 </p>
 
 
-### Socials
-
-<p align="left"> <a href="https://www.facebook.com/victor.borah" target="_blank" rel="noreferrer"><img src="https://delta.zexacode.com/platform-icons/fb.png" width="32" height="32" /></a> <a href="https://www.github.com/VictorBorah" target="_blank" rel="noreferrer"><img src="https://delta.zexacode.com/platform-icons/github.png" width="32" height="32" /></a> <a href="http://www.instagram.com/victorborah.007" target="_blank" rel="noreferrer"><img src="https://delta.zexacode.com/platform-icons/insta.png" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/victor-borah" target="_blank" rel="noreferrer"><img src="https://delta.zexacode.com/platform-icons/linkedin.png" width="32" height="32" /></a> <a href="https://www.twitter.com/VictorBorahMrZ" target="_blank" rel="noreferrer"><img src="https://delta.zexacode.com/platform-icons/twitter.png" width="32" height="32" /></a></p>
 
 ### A few websites I have built
 <a href="https://www.lokdcollege.in/">LOKD College, Dhekiajuli, Assam, IN</a> <br>
@@ -57,6 +54,13 @@ src="https://img.shields.io/twitter/follow/VictorBorahMrZ?logo=twitter&style=for
 <a href="https://www.zexacode.com/">Zexacode Technologies</a><br>
 <a href="https://www.zexapay.in/">ZexaPay - Recharge &amp; Bill Payments</a><br>
 <a href="https://www.liladas.in/">Lila Das, Personal Finance Advisor</a><br>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.facebook.com/victor.borah" target="_blank" rel="noreferrer"><img src="https://delta.zexacode.com/platform-icons/fb.png" width="32" height="32" /></a> <a href="https://www.github.com/VictorBorah" target="_blank" rel="noreferrer"><img src="https://delta.zexacode.com/platform-icons/github.png" width="32" height="32" /></a> <a href="http://www.instagram.com/victorborah.007" target="_blank" rel="noreferrer"><img src="https://delta.zexacode.com/platform-icons/insta.png" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/victor-borah" target="_blank" rel="noreferrer"><img src="https://delta.zexacode.com/platform-icons/linkedin.png" width="32" height="32" /></a> <a href="https://www.twitter.com/VictorBorahMrZ" target="_blank" rel="noreferrer"><img src="https://delta.zexacode.com/platform-icons/twitter.png" width="32" height="32" /></a></p>
+
+
 
 ### Badges
 
