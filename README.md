@@ -51,11 +51,11 @@ src="https://img.shields.io/twitter/follow/VictorBorahMrZ?logo=twitter&style=for
 <p align="left"> <a href="https://www.facebook.com/victor.borah" target="_blank" rel="noreferrer"><img src="https://delta.zexacode.com/platform-icons/fb.png" width="32" height="32" /></a> <a href="https://www.github.com/VictorBorah" target="_blank" rel="noreferrer"><img src="https://delta.zexacode.com/platform-icons/github.png" width="32" height="32" /></a> <a href="http://www.instagram.com/victorborah.007" target="_blank" rel="noreferrer"><img src="https://delta.zexacode.com/platform-icons/insta.png" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/victor-borah" target="_blank" rel="noreferrer"><img src="https://delta.zexacode.com/platform-icons/linkedin.png" width="32" height="32" /></a> <a href="https://www.twitter.com/VictorBorahMrZ" target="_blank" rel="noreferrer"><img src="https://delta.zexacode.com/platform-icons/twitter.png" width="32" height="32" /></a></p>
 
 ### A few websites I have built
-<a href="https://www.lokdcollege.in/">www.lokdcollege.in/</a>
-<a href="https://www.deendayalcollegebehali.in/">www.deendayalcollegebehali.in/</a>
-<a href="https://www.zexacode.com/">www.zexacode.com/</a>
-<a href="https://www.zexapay.in/">www.zexapay.in/</a>
-<a href="https://www.liladas.in/">www.liladas.in/</a>
+<a href="https://www.lokdcollege.in/">www.lokdcollege.in/</a> <br>
+<a href="https://www.deendayalcollegebehali.in/">www.deendayalcollegebehali.in/</a><br>
+<a href="https://www.zexacode.com/">www.zexacode.com/</a><br>
+<a href="https://www.zexapay.in/">www.zexapay.in/</a><br>
+<a href="https://www.liladas.in/">www.liladas.in/</a><br>
 
 ### Badges
 
