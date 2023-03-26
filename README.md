@@ -70,11 +70,11 @@ src="https://img.shields.io/twitter/follow/VictorBorahMrZ?logo=twitter&style=for
 
 <b>My GitHub Stats</b>
 
-<div align="left">
+<div width="50%" align="left">
 <a href="http://www.github.com/VictorBorah"><img src="https://github-readme-stats.vercel.app/api?username=victorborah&show_icons=true&theme=cobalt" alt="VictorBorah's GitHub stats" /></a>
 </div>
 
-<div align="right">
+<div width="50%" align="right">
   <a href="https://github.com/VictorBorah" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorborah&langs_count=5&theme=dark" alt="Top Languages" /></a>
  </div>
 
