@@ -70,11 +70,19 @@ src="https://img.shields.io/twitter/follow/VictorBorahMrZ?logo=twitter&style=for
 
 <b>My GitHub Stats</b>
 
+<div align="left">
 <a href="http://www.github.com/VictorBorah"><img src="https://github-readme-stats.vercel.app/api?username=victorborah&show_icons=true&theme=cobalt" alt="VictorBorah's GitHub stats" /></a>
+</div>
+
+<div align="right">
+  <a href="https://github.com/VictorBorah" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorborah&langs_count=5&theme=dark" alt="Top Languages" /></a>
+ </div>
+
+<br clear="both">
 
 <a href="http://www.github.com/VictorBorah"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=VictorBorah&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=193549&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/VictorBorah" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorborah&langs_count=5&theme=dark" alt="Top Languages" /></a>
+
 
 
 <b>Top Repositories</b>
