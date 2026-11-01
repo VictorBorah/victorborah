@@ -103,10 +103,10 @@ I enjoy exploring emerging technologies, architecting software systems, developi
   </a>
 </p>
 
+### 📈 GitHub Contribution Activity
+
 <p align="center">
-  <a href="https://github.com/VictorBorah">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=VictorBorah&theme=tokyo-night&hide_border=true&area=true&custom_title=GitHub%20Contribution%20Activity" width="100%" alt="GitHub Contribution Activity" />
-  </a>
+  <img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="Victor Borah's GitHub Contribution Graph" />
 </p>
 
 ---
