@@ -95,12 +95,18 @@ I enjoy exploring emerging technologies, architecting software systems, developi
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VictorBorah&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Victor's GitHub Statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorBorah&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
+  <a href="https://github.com/VictorBorah">
+    <img height="180" src="https://github-stats-extended.vercel.app/api?username=VictorBorah&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" alt="Victor's GitHub Statistics" />
+  </a>
+  <a href="https://github.com/VictorBorah">
+    <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=VictorBorah&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Most Used Languages" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VictorBorah&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Graph" />
+  <a href="https://github.com/VictorBorah">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=VictorBorah&theme=tokyo-night&hide_border=true&area=true&custom_title=GitHub%20Contribution%20Activity" width="100%" alt="GitHub Contribution Activity" />
+  </a>
 </p>
 
 ---
