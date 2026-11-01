@@ -1,83 +1,110 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Victor Borah
-====================================================================================================================================
+# Hi there! 👋 I'm Victor Borah
 
-Full Stack Developer , UX Architect, REST API Developer
--------------------------------------------------------
+### Full-Stack Developer · Software Architect · UX Enthusiast
 
-Exploring Technology to make a better World 💡.
+Building digital products, scalable applications and technology-driven solutions that make a difference.
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [victorborah@gmail.com](mailto:victorborah@gmail.com)
-* 🚀  I'm currently working on [ZexaPay - Bill Payments & Mobile Recharge](http://https://www.zexapay.in/)
-* 🧠  I'm learning Tensor Flow
-* 🤝  I'm open to collaborating on REST API based on SLIM-4
-* ⚡  I am preparing for a Ph.D. in Computer Science
-* 🧰  I work primarily  in Js, Ts & PHP. I use SLIM-4 for building REST APIs. 
-* 🗃️  I work in mySQL, Firebase & DynamoDB for Data Storages
-* 🛠️  I primarily build FrontEnds in Angular, React & Flutter
-* 📋  As on Feb 2023, I am working on project called TeaPay sheduled to be released by March
+I enjoy exploring emerging technologies, architecting software systems, developing robust APIs and creating intuitive user experiences.
 
-<a href="https://www.github.com/VictorBorah" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/VictorBorah?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/VictorBorahMrZ" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/VictorBorahMrZ?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+- 🌍 Based in **India**
+- 💼 Currently building **[Kritika](https://kritikafoundation.com/)** and **[Lendify](https://lendify.in/)**
+- ✉️ Reach me at **[victorborah@gmail.com](mailto:victorborah@gmail.com)**
+- 🧩 Interested in FinTech, SaaS, Cloud Computing and AI-powered applications
+- 🤝 Open to collaborating on innovative products, REST APIs and open-source projects
+- ⚡ Passionate about turning complex ideas into practical technology solutions
 
-### Skills
+---
 
+### 🚀 What I Do
+
+- **Software Architecture:** Designing scalable, maintainable application architectures.
+- **Backend Engineering:** Building RESTful APIs, business logic and secure backend systems.
+- **Frontend Engineering:** Developing responsive, intuitive and modern web applications.
+- **Database Engineering:** Designing relational databases, data models and optimized queries.
+- **Cloud & Infrastructure:** Deploying and managing applications across cloud environments.
+- **UX Architecture:** Bridging the gap between functional engineering and exceptional user experiences.
+
+### 🛠️ Tech Stack & Tools
+
+**Languages & Frameworks**
 
 <p align="left">
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://delta.zexacode.com/platform-icons/php.png" width="36" height="36" alt="PHP" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://delta.zexacode.com/platform-icons/js.png" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://delta.zexacode.com/platform-icons/ts.png" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://delta.zexacode.com/platform-icons/dart.png" width="36" height="36" alt="Dart" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://delta.zexacode.com/platform-icons/python.png" width="36" height="36" alt="Python" /></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://delta.zexacode.com/platform-icons/c-sharp.png" width="36" height="36" alt="C#" /></a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://delta.zexacode.com/platform-icons/angular.png" width="36" height="36" alt="Angular" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://delta.zexacode.com/platform-icons/react.png" width="36" height="36" alt="React" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://delta.zexacode.com/platform-icons/css3.png" width="36" height="36" alt="CSS3" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://delta.zexacode.com/platform-icons/tailwind.png" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://delta.zexacode.com/platform-icons/bootstrap.png" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://delta.zexacode.com/platform-icons/material-ui.png" width="36" height="36" alt="Material UI" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://delta.zexacode.com/platform-icons/html5.png" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://delta.zexacode.com/platform-icons/mySQL.png" width="36" height="36" alt="MySQL" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://delta.zexacode.com/platform-icons/firebase.png" width="36" height="36" alt="Firebase" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://delta.zexacode.com/platform-icons/node.png" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://delta.zexacode.com/platform-icons/flutter.png" width="36" height="36" alt="Flutter" /></a>
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://delta.zexacode.com/platform-icons/Dotnet.png" width="36" height="36" alt=".NET" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://delta.zexacode.com/platform-icons/figma.png" width="36" height="36" alt="Figma" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://delta.zexacode.com/platform-icons/photoshop.png" width="36" height="36" alt="Photoshop" /></a>
-<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://delta.zexacode.com/platform-icons/illustrator.png" width="36" height="36" alt="Illustrator" /></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,php,python,dart,react,nextjs,angular,nodejs,flutter,dotnet&theme=dark" alt="Languages and Frameworks" />
+  </a>
 </p>
 
+**Backend, Databases & Cloud**
 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,nodejs,supabase,postgres,mysql,firebase,aws,docker,git,github&theme=dark" alt="Backend, Databases and Cloud" />
+  </a>
+</p>
 
-### A few websites I have built
-<a href="https://www.lokdcollege.in/">LOKD College, Dhekiajuli, Assam, IN</a> <br>
-<a href="https://www.deendayalcollegebehali.in/">Pandit Deendayal Upadhyaya Adarsha Mahavidyalaya, Behali, Assam, IN</a><br>
-<a href="https://www.orientflower.in/">Orient Flower Sr. Sec. School, Biswanath, Assam, IN</a><br>
-<a href="https://www.zexacode.com/">Zexacode Technologies</a><br>
-<a href="https://www.zexapay.in/">ZexaPay - Recharge &amp; Bill Payments</a><br>
-<a href="https://www.liladas.in/">Lila Das, Personal Finance Advisor</a><br>
+**Frontend & Design**
 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,materialui,figma,ps,ai&theme=dark" alt="Frontend and Design Tools" />
+  </a>
+</p>
 
-### Socials
+**Additional Technologies**
 
-<p align="left"> <a href="https://www.facebook.com/victor.borah" target="_blank" rel="noreferrer"><img src="https://delta.zexacode.com/platform-icons/fb.png" width="32" height="32" /></a> <a href="https://www.github.com/VictorBorah" target="_blank" rel="noreferrer"><img src="https://delta.zexacode.com/platform-icons/github.png" width="32" height="32" /></a> <a href="http://www.instagram.com/victorborah.007" target="_blank" rel="noreferrer"><img src="https://delta.zexacode.com/platform-icons/insta.png" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/victor-borah" target="_blank" rel="noreferrer"><img src="https://delta.zexacode.com/platform-icons/linkedin.png" width="32" height="32" /></a> <a href="https://www.twitter.com/VictorBorahMrZ" target="_blank" rel="noreferrer"><img src="https://delta.zexacode.com/platform-icons/twitter.png" width="32" height="32" /></a></p>
+- PHP Slim 4 · REST API Development
+- Supabase · PostgreSQL · MySQL · DynamoDB
+- AWS · DigitalOcean · Cloud Storage
+- Next.js · React · TypeScript
+- Git · GitHub · CI/CD
 
+---
 
+### 🌐 A Few Websites I've Built
 
-### Badges
+- [LOKD College, Dhekiajuli](https://www.lokdcollege.in/)
+- [Pandit Deendayal Upadhyaya Adarsha Mahavidyalaya](https://www.deendayalcollegebehali.in/)
+- [Orient Flower Senior Secondary School](https://www.orientflower.in/)
+- [ZexaPay – Recharge & Bill Payments](https://www.zexapay.in/)
+- [Lila Das – Personal Finance Advisor](https://www.liladas.in/)
 
-<b>My GitHub Stats</b>
+---
 
+### 🤝 Let's Connect
 
-<a href="http://www.github.com/VictorBorah"><img src="https://github-readme-stats.vercel.app/api?username=victorborah&show_icons=true&theme=cobalt" alt="VictorBorah's GitHub stats" /></a>
+<p align="left">
+  <a href="https://github.com/VictorBorah">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/victor-borah">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/victor.borah">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.instagram.com/victorborah.007">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://twitter.com/VictorBorahMrZ">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+</p>
 
- <a href="https://github.com/VictorBorah" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorborah&langs_count=5&theme=dark" alt="Top Languages" /></a>
+---
 
-<a href="http://www.github.com/VictorBorah"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=VictorBorah&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=193549&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+### 📊 GitHub Statistics
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VictorBorah&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Victor's GitHub Statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorBorah&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
+</p>
 
-<b>Top Repositories</b>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VictorBorah&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Graph" />
+</p>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+---
+
+<p align="center">
+  <i>Exploring technology. Engineering possibilities. Building the future. 💡</i>
+</p>
