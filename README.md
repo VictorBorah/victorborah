@@ -7,6 +7,7 @@ Building digital products, scalable applications and technology-driven solutions
 I enjoy exploring emerging technologies, architecting software systems, developing robust APIs and creating intuitive user experiences.
 
 - 🌍 Based in **India**
+- 🙋‍♂️ Visit me at **[victorborah.dev].(https://www.victorborah.dev/)**
 - 💼 Currently building **[Kritika](https://kritikafoundation.com/)** and **[Lendify](https://lendify.in/)**
 - ✉️ Reach me at **[victorborah@gmail.com](mailto:victorborah@gmail.com)**
 - 🧩 Interested in FinTech, SaaS, Cloud Computing and AI-powered applications
@@ -62,12 +63,12 @@ I enjoy exploring emerging technologies, architecting software systems, developi
 
 ### 🌐 A Few Websites I've Built
 
-- [LOKD College, Dhekiajuli](https://www.lokdcollege.in/)
+- [LOKD College, Dhekiajuli](https://www.lokdcollege.ac.in/)
 - [Pandit Deendayal Upadhyaya Adarsha Mahavidyalaya](https://www.deendayalcollegebehali.in/)
 - [Orient Flower Senior Secondary School](https://www.orientflower.in/)
-- [ZexaPay – Recharge & Bill Payments](https://www.zexapay.in/)
-- [Lila Das – Personal Finance Advisor](https://www.liladas.in/)
-
+- [Jirsong Horti – Growers, Importers & Exporters](https://www.jirsong.com/)
+- [T.B. Industries – Corporate Agency](https://www.thetbindustries.com/)
+- [Cabko International – EXIM Company](https://www.cabkointernational.com/)
 ---
 
 ### 🤝 Let's Connect
